@@ -7,7 +7,7 @@
 
 ## Presentation
 This is a simple school system manager developed with the Laravel framework, MySQL database, Laravel UI, Laravel UI Auth.
-(Made in 2022)
+(Initially made in 2022)
 
 ✨ Features
 
