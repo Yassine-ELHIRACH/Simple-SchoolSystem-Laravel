@@ -1,0 +1,23 @@
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: adminpwd
+
+---Teacher Login Details---
+
+Email   : teacher@mail.com
+Password: teacherpwd
+
+---Student Login Details---
+
+Email   : student@mail.com
+Password: studentpwd
+
+---Parents Login Details---
+
+Email   : parent@mail.com
+Password: parentpwd
+
+
+
